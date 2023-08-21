@@ -1,0 +1,3 @@
+1. Dùng Jest và TS-Jest để test code
+2. Để khởi tạo file tsconfig.json thì dùng lệnh "tsc --init"
+
