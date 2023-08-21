@@ -3,7 +3,7 @@
         1. Static type checking
         2. Types of Tooling
         3. tsc - typescript compiler
-        4. Emitting with Errors
+        4. Emitting with Errors => config trong file tsconfig.json
 */
 
 // #1. Static type checking => GIÚP TRÁNH LỖI TYPO
