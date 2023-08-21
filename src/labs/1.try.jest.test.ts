@@ -1,4 +1,4 @@
-import { isValid } from './1.try.jest'
+import { isValid } from '../codes/1.try.jest'
 
 describe('isValid()', () => {
     it('should return true when n > 10', () => {
